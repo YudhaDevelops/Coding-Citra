@@ -1,4 +1,4 @@
-Img = imread('C:\Users\LENOVO\Downloads\Pemandangan.jpg');
+Img = imread('IMG_1149.jpg');
 [tinggi, lebar] =  size(Img);
 
 ambang = 128; % Nilai ini bisa diubah-ubah
